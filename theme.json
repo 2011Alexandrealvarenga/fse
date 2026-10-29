@@ -1,14 +1,11 @@
 {
-  "$schema": "https://schemas.wp.org/trunk/theme.json",
-  "version": 2,
-  "templateParts": {
-    "headers": [
-    {
-      "name": "headers",
-      "title": "myHeader",
-      "description": "Main site header"
-    }
-  
-  }
-
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"templateParts": [
+		{
+			"name": "header-atual",
+			"title": "header-atual",
+			"area": "header"
+		}
+	]
 }
