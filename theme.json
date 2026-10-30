@@ -37,6 +37,15 @@
 			"custom":true,
 			"link": true,
 			"background": true
+		},
+		"typography": {
+			"fontFamily": {
+				{
+					"fontFamily": "Roboto",
+					"name": "Quattrocentos",
+					"slug": "quattrocentos"
+				}
+			}
 		}
 	},
 	"templateParts": [
