@@ -2,6 +2,10 @@
 	"$schema": "https://schemas.wp.org/trunk/theme.json",
 	"version": 2,
 	"settings": {
+		"layout": {
+			"contentSize": "800px",
+			"wideSize": "1200px"
+		},
 		"appearanceTools": true,
 		"color": {
 			"defaultPalette": false,
@@ -38,15 +42,24 @@
 			"link": true,
 			"background": true
 		},
+		
 		"typography": {
-			"fontFamily": {
+			"fontFamilies": [
 				{
 					"fontFamily": "Roboto",
 					"name": "Quattrocentos",
 					"slug": "quattrocentos"
 				}
-			}
+			]
 		}
+	},
+	"styles": {
+
+		"layout": {
+			"contentSize": "800px",
+			"wideSize": "1200px"
+		}
+
 	},
 	"templateParts": [
 		{

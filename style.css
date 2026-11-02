@@ -11,3 +11,20 @@ License URI:
 
 
 */
+.entry-content,
+.wp-block-post-content,
+.wp-block-group.is-layout-constrained{
+  max-width: 100%!important;
+  width: 100%!important;
+}
+.wp-block-group.alignwide{
+  max-width: 1200px!important;
+  width: 100%!important;
+  margin-left: auto!important;
+  margin-right: auto!important;
+}
+.wp-block-group.alignfull{
+  width: 100vw!important;
+  margin-left: 0!important;
+  margin-right: 0!important;
+}
