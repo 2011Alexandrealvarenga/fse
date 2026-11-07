@@ -66,6 +66,11 @@
 			"name": "header-atual",
 			"title": "header-atual",
 			"area": "header"
+		},
+		{
+			"name": "footer",
+			"title": "footer",
+			"area": "footer"
 		}
 	]
 }
