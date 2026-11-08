@@ -71,6 +71,11 @@
 			"name": "footer",
 			"title": "footer",
 			"area": "footer"
+		},
+		{
+			"name": "sidebar",
+			"title": "sidebar",
+			"area": "uncategorized"
 		}
 	]
 }
